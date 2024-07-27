@@ -503,6 +503,12 @@ let
       settings = cfg: { rust-analyzer = cfg; };
     }
     {
+      name = "serve-d";
+      description = "Serve d for D";
+      package = pkgs.serve-d;
+      serverName = "serve_d";
+    }
+    {
       name = "slint-lsp";
       description = "slint_lsp for Slint GUI language";
       serverName = "slint_lsp";

@@ -188,6 +188,7 @@
               installCargo = true;
               installRustc = true;
             };
+            serve-d.enable = true;
             slint-lsp.enable = true;
             solargraph.enable = true;
             # As of 2024-03-11, sourcekit-lsp is broken on aarch64
