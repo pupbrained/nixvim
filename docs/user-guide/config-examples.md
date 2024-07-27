@@ -14,12 +14,13 @@ all of the nixvim options are accessible no matter how you are using it (flake, 
 |-|-|
 | [ahwxorg/nixvim-config] | |
 | [alisonjenkins/neovim-nix-flake] | |
-| [dc-tec/nixvim] | NixVim conifg, inspired by some of the contributors in this list and LazyVIM |
+| [dc-tec/nixvim] | NixVim config, inspired by some of the contributors in this list and LazyVIM |
 | [elythh/nixvim] | |
 | [GaetanLepage/nix-config] | Home-manager |
 | [gwg313/nvim-nix] | |
 | [hbjydev/hvim] | |
 | [JMartJonesy/kickstart.nixvim] | An implementation of kickstart.nvim using nixvim |
+| [khaneliman/khanelivim] | Constantly tweaked jack of all trades development focused configuration. |
 | [MikaelFangel/nixvim-config] | An easy-setup configuration for NixVim, focused on straightforward customization |
 | [nicolas-goudry/nixvim-config] | Heavily inspired by AstroNvim |
 | [niksingh710/nvix] | Ported from a lazy-based lua config. Contains examples of most use cases, including custom, nixpkgs, & nixvim plugins. |
@@ -40,6 +41,7 @@ all of the nixvim options are accessible no matter how you are using it (flake, 
 [gwg313/nvim-nix]: https://github.com/gwg313/nvim-nix
 [hbjydev/hvim]: https://github.com/hbjydev/hvim
 [JMartJonesy/kickstart.nixvim]: https://github.com/JMartJonesy/kickstart.nixvim
+[khaneliman/khanelivim]: https://github.com/khaneliman/khanelivim
 [MikaelFangel/nixvim-config]: https://github.com/MikaelFangel/nixvim-config
 [nicolas-goudry/nixvim-config]: https://github.com/nicolas-goudry/nixvim-config
 [niksingh710/nvix]: https://github.com/niksingh710/nvix
